@@ -1,8 +1,6 @@
 # Reliability Score
 
-Explore the reliability of your train in Belgium with Open Data from Infrabel.
-
-TODO: add more introduction (see handover dossier)
+Reliability Score is a service that allows travelers to see how reliable a certain train is, so they can take an earlier train if necessary to assure they arrive at their destination on time. This project is sponsored by and in collaboration with [Infrabel](https://infrabel.be). They provided us with delay data of the last four years. They wanted to see the possibilities of opening up their data to the world.
 
 ## Repositories
 
